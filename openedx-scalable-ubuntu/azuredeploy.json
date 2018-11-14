@@ -31,7 +31,7 @@
     },
     "appVmSize": {
       "type": "string",
-      "defaultValue": "Standard_DS2_v2",
+      "defaultValue": "Standard_D2_v2",
       "allowedValues": [
         "Standard_DS2",
         "Standard_DS3",
@@ -40,7 +40,7 @@
         "Standard_DS12",
         "Standard_DS13",
         "Standard_DS14",
-        "Standard_DS2_v2",
+        "Standard_D2_v2",
         "Standard_DS3_v2",
         "Standard_DS4_v2",
         "Standard_DS5_v2",
@@ -56,7 +56,7 @@
     },
     "mySqlVmSize": {
       "type": "string",
-      "defaultValue": "Standard_DS2_v2",
+      "defaultValue": "Standard_D2_v2",
       "allowedValues": [
         "Standard_DS2",
         "Standard_DS3",
@@ -65,7 +65,7 @@
         "Standard_DS12",
         "Standard_DS13",
         "Standard_DS14",
-        "Standard_DS2_v2",
+        "Standard_D2_v2",
         "Standard_DS3_v2",
         "Standard_DS4_v2",
         "Standard_DS5_v2",
@@ -81,7 +81,7 @@
     },
     "mongoVmSize": {
       "type": "string",
-      "defaultValue": "Standard_DS2_v2",
+      "defaultValue": "Standard_D2_v2",
       "allowedValues": [
         "Standard_DS2",
         "Standard_DS3",
@@ -90,7 +90,7 @@
         "Standard_DS12",
         "Standard_DS13",
         "Standard_DS14",
-        "Standard_DS2_v2",
+        "Standard_D2_v2",
         "Standard_DS3_v2",
         "Standard_DS4_v2",
         "Standard_DS5_v2",
